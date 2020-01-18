@@ -12,6 +12,9 @@ Math game 2048 implemented by python and pygame.
 - Windows: py pygame2048.py 
 - Linux: python3 pygame2048.py
 
+## Screenshot
+![GUI](./2048_ubuntu.png)
+
 ## TODO
 
 Implementation of tile background for numbers.
